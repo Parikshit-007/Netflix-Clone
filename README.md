@@ -1,2 +1,2 @@
 # Netflix-Clone
-Netflix Clone using reactjs
+Netflix UI Clone using reactjs
